@@ -9,7 +9,7 @@ import (
 	"github.com/sirupsen/logrus"
 
 	"github.com/SAIKAII/skResk-Account/services"
-	"github.com/SAIKAII/skReskInfra/base"
+	"github.com/SAIKAII/skResk-Infra/base"
 	"github.com/segmentio/ksuid"
 	"github.com/tietang/dbx"
 )

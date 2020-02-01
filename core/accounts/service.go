@@ -7,7 +7,7 @@ import (
 	"github.com/shopspring/decimal"
 
 	"github.com/SAIKAII/skResk-Account/services"
-	"github.com/SAIKAII/skReskInfra/base"
+	"github.com/SAIKAII/skResk-Infra/base"
 )
 
 var _ services.AccountService = new(accountService)

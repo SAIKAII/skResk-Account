@@ -6,8 +6,8 @@ github.com/Joker/hpp v0.0.0-20180418125244-6893e659854a/go.mod h1:MzD2WMdSxvbHw5
 github.com/Joker/jade v1.0.0 h1:lOCEPvTAtWfLpSZYMOv/g44MGQFAolbKh2khHHGu0Kc=
 github.com/Joker/jade v1.0.0/go.mod h1:efZIdO0py/LtcJRSa/j2WEklMSAw84WV0zZVMxNToB8=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
-github.com/SAIKAII/skReskInfra v0.1.0 h1:lEEEzY5SXdB207e+e1wwLozYQr3s/DZgGtGRV6Sl/Ys=
-github.com/SAIKAII/skReskInfra v0.1.0/go.mod h1:SpYxjQxURjwjkUWSpgccuCIwstPA7mUQZ+PhvZj2bdw=
+github.com/SAIKAII/skResk-Infra v0.2.1 h1:LPKGgmzM6c4cXc8RCr7V+rW7cpnP1K4Z0o4t4r1SVI8=
+github.com/SAIKAII/skResk-Infra v0.2.1/go.mod h1:jp06gLZJkH3ck5ttOVi5YxSvZxd2wKeZeed3Em0lYrQ=
 github.com/Shopify/goreferrer v0.0.0-20181106222321-ec9c9a553398 h1:WDC6ySpJzbxGWFh4aMxFFC28wwGp5pEuoTtvA4q/qQ4=
 github.com/Shopify/goreferrer v0.0.0-20181106222321-ec9c9a553398/go.mod h1:a1uqRtAwp2Xwc6WNPJEufxJ7fx3npB4UV/JOLmbu5I0=
 github.com/ajg/form v1.5.1 h1:t9c7v8JUKu/XxOGBU0yjNpaMloxGEJhUkqFRq0ibGeU=

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/SAIKAII/skReskInfra"
+	"github.com/SAIKAII/skResk-Infra"
 	"github.com/tietang/props/ini"
 	"github.com/tietang/props/kvs"
 )

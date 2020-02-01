@@ -2,8 +2,8 @@ package web
 
 import (
 	"github.com/SAIKAII/skResk-Account/services"
-	"github.com/SAIKAII/skReskInfra"
-	"github.com/SAIKAII/skReskInfra/base"
+	"github.com/SAIKAII/skResk-Infra"
+	"github.com/SAIKAII/skResk-Infra/base"
 	"github.com/kataras/iris"
 )
 

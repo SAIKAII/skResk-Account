@@ -3,7 +3,7 @@ package services
 import (
 	"time"
 
-	"github.com/SAIKAII/skReskInfra/base"
+	"github.com/SAIKAII/skResk-Infra/base"
 
 	"github.com/shopspring/decimal"
 )

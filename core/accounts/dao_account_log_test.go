@@ -11,7 +11,7 @@ import (
 
 	"github.com/segmentio/ksuid"
 
-	"github.com/SAIKAII/skReskInfra/base"
+	"github.com/SAIKAII/skResk-Infra/base"
 	. "github.com/smartystreets/goconvey/convey"
 	"github.com/tietang/dbx"
 )
